@@ -1,0 +1,12 @@
+body {
+    background: #666;
+}
+
+p {
+    line-height: 2em;
+}
+
+img {
+    height: 200px;
+    width: 200px;
+}
