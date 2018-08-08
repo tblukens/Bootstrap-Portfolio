@@ -25,6 +25,11 @@ img {
     max-width: 300px;
 }
 
+.img-portfolio {
+    height: 150px;
+    width: 210px;
+}
+
 .container {
     max-width: 960px;
 }
@@ -52,3 +57,23 @@ img {
     border-top: 7px solid #4aaaa5;
     
 }
+
+
+.thumbnail {
+    position: relative;
+    font-size: 0.75em;
+}
+
+.thumbnail-img {
+    width: 210px;
+    height: 150px;
+}
+
+.caption {
+    position: absolute;
+    bottom: 10%;
+    left: 0;
+    width: 210px;
+}
+
+.element:hover { opacity:.7;}
